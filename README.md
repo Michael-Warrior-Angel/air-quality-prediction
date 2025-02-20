@@ -75,7 +75,7 @@ pip install -r requirements.txt
 
 Run the script:
 
-python air_quality_model.py
+python air-quality-prediction.py
 
 Results
 
