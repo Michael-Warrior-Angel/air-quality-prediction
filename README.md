@@ -1,6 +1,4 @@
-# air-quality-prediction
-
-Air Quality Prediction Using Machine Learning
+# Air Quality Prediction Using Machine Learning
 
 Overview
 
