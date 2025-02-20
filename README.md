@@ -65,7 +65,8 @@ How to Run the Code
 
 Clone the repository:
 
-git clone https://github.com/yourusername/air-quality-prediction.git
+git clone https://github.com/Michael-Warrior-Angel/air-quality-prediction.git
+
 cd air-quality-prediction
 
 Install dependencies:
