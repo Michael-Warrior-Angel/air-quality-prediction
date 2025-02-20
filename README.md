@@ -42,8 +42,6 @@ Train multiple regression models including:
 
 Linear Regression
 
-Decision Tree Regressor
-
 Random Forest Regressor
 
 Support Vector Regressor (SVR)
@@ -56,11 +54,8 @@ Model Evaluation
 
 Compare models using performance metrics such as:
 
-Mean Squared Error (MSE)
-
 Root Mean Squared Error (RMSE)
 
-R-Squared Score (R²)
 
 Dependencies
 
